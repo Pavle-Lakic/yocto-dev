@@ -1,0 +1,9 @@
+#Settings for VSC
+.vscode
+
+# Do not care about commits in poky repo, should be used only for sourcing and running bitbake
+poky
+
+#
+layers/meta-openembedded
+layers/meta-raspberrypi
